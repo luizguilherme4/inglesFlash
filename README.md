@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="form glassmorphism" src="images/preview.jpg" width="100%">
+  <img alt="inglês flash" src="images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,10 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 InglêsFlash é um flashcard de termos da língua inglesa.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1184262089732678488). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
